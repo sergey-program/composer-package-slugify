@@ -1,4 +1,6 @@
-# compose for docker 2.x
+#compose for docker 1.x
+version: "3.3"
+
 services:
   nginx:
     container_name: package1_nginx
