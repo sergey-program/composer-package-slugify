@@ -1,0 +1,19 @@
+{
+    "name": "sergey-program/otus-composer-package-slugify",
+    "description": "simply extended slugify library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SergeyProgram\\OtusComposerPackageSlugify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey-program"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "cocur/slugify": "^4.5"
+    }
+}
