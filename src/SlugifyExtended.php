@@ -1,5 +1,7 @@
 <?php
 
+namespace SergeyProgram\OtusComposerPackageSlugify;
+
 use Cocur\Slugify\Slugify;
 
 class SlugifyExtended extends Slugify
